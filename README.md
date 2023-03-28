@@ -6,7 +6,7 @@
 
 | Task  |      Acc.   |
 |----------|:-------------:|
-|FashionMNIST| 80.15% |
+|FashionMNIST| 80.51% |
 
 
 </center>
@@ -26,10 +26,10 @@
 |mlp_hid_dim| 64 |
 |drop| 0.1 |
 |n_classes| 10 |
-|n_epochs| 10 |
+|n_epochs| 16 |
 |batch_size| 512 |
 | seed | 45 |
-| Total Time | 53sec |
+| Total Time | 1min 22sec |
 | GPU | Rtx Quadro 5000 (16GB) |
 
 </center>
