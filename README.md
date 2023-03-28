@@ -28,6 +28,7 @@
 |n_classes| 10 |
 |n_epochs| 10 |
 |batch_size| 512 |
+| seed | 45 |
 
 </center>
 
