@@ -29,6 +29,8 @@
 |n_epochs| 10 |
 |batch_size| 512 |
 | seed | 45 |
+| Total Time | 53sec |
+| GPU | Rtx Quadro 5000 (16GB) |
 
 </center>
 
